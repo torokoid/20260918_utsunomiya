@@ -180,7 +180,7 @@ p.note { display: none; }
 <a href="20260918_00005.jpeg" target="_blank"><img src="20260918_00005.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260918_00006.jpeg" target="_blank"><img src="20260918_00006.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h1><span class="yellow">ここからは、ヨークベニマルのお花屋さんのお花達</span></h1>
+<h1><span class="yellow">ここからは、ヨークベニマル御幸ヶ原店のお花屋さんのお花達</span></h1>
 <a href="20260918_00007.jpeg" target="_blank"><img src="20260918_00007.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260918_00008.jpeg" target="_blank"><img src="20260918_00008.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
